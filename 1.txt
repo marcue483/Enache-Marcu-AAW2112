@@ -1,1 +1,2 @@
 am modificat fisierul
+am modificat local
